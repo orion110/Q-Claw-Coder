@@ -1,4 +1,4 @@
-QClawCode (Q-Claw + Claw-Coder)
+### QClawCode (Q-Claw + Claw-Coder)
 
 QClawCode is a self-contained, privacy-first AI powerhouse that bridges the gap between a terminal chatbot and a autonomous developer agent. 
 
